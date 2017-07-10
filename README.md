@@ -5,7 +5,3 @@ This folder contains the source code for the Android testing codelab. It gives a
 ### Getting Started
 
 Clone this repository, enter the top level directory and run <code>./gradlew tasks</code> to get an overview of all the tasks available for this project.
-
-### License
-
-
